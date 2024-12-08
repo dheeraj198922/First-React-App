@@ -1,0 +1,20 @@
+[
+{
+    "title": "component",
+    "discription": "This is react component with code",
+    "code": "export class AppComponents extends React.Component {}"
+},
+
+{
+    "title": "jsx",
+    "discription": "this is jsx components",
+    "code":"export function AppComponent()"
+},
+
+{
+    "title": "props",
+    "discription": "this is props exam",
+    "code": "export function AppComponent(props)"
+}
+
+]
